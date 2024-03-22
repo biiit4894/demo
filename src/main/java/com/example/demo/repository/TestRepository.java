@@ -10,5 +10,7 @@ public class TestRepository {
 
         System.out.println("나는 conflict의 근원이다 우하하");
 
+        System.out.println("변경사항!!!!ㅇㅇㅇ");
+        System.out.println("code for cherry picking test");
     }
 }
