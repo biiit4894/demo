@@ -5,5 +5,6 @@ public class TestRepository {
         System.out.println("나를 추가해보렴!!!!!");
 
         // 코드 변경사항 가정 (테스트 코드 삭제)
+        System.out.println("변경사항!!!!");
     }
 }
