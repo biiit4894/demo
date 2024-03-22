@@ -6,6 +6,10 @@ public class TestRepository {
 
         // 코드 변경사항 가정 (테스트 코드 삭제)
         System.out.println("변경사항!!!!");
-        System.out.println("code for cherry picking");
+
+        System.out.println("나는 conflict의 근원이다 우하하");
+
+        System.out.println("변경사항!!!!ㅇㅇㅇ");
+        System.out.println("code for cherry picking test");
     }
 }
